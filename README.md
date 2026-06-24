@@ -57,3 +57,5 @@
   sunset gradient  → title_color ffd166 (amber), icon/accent ff8c5a (orange)
   base theme       → tokyonight (navy). Swap theme= to: dark, radical, dracula, etc.
 -->
+
+<!-- profile readme -->
