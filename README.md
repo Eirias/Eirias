@@ -7,8 +7,9 @@
 <h1 align="center">Hi, I'm Sebastian 👋</h1>
 
 <p align="center">
-  <b>Senior iOS Engineer · Tech Lead</b> @ PT ITropical Live Solutions<br>
-  Swift 6 · SwiftUI · Custom Redux · Vapor · 12+ years shipping apps
+  <b>Founder &amp; Tech Lead</b> @ PT ITropical Live Solutions<br>
+  Senior iOS Engineer · 12+ years shipping production apps<br>
+  Swift 6 · SwiftUI · Custom Redux · Vapor
 </p>
 
 <p align="center">
@@ -57,5 +58,3 @@
   sunset gradient  → title_color ffd166 (amber), icon/accent ff8c5a (orange)
   base theme       → tokyonight (navy). Swap theme= to: dark, radical, dracula, etc.
 -->
-
-<!-- profile readme -->
